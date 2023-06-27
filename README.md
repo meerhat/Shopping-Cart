@@ -1,4 +1,4 @@
-
+## Deployment using Netlify 
 The website is deployed in Netlify at: https://chipper-rolypoly-a415a5.netlify.app
 
 ## Technologies used:
@@ -6,7 +6,7 @@ The website is deployed in Netlify at: https://chipper-rolypoly-a415a5.netlify.a
 - JavaScript
 - CSS
 - HTML
-- 
+  
 ## About the website
 A shopping cart website where user can:
 - Search for produts using the search bar
