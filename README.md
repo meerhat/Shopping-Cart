@@ -1,6 +1,5 @@
 ## Deployment using Netlify 
 The website is deployed in Netlify at: https://chipper-rolypoly-a415a5.netlify.app
-https://main--heroic-zuccutto-7e090b.netlify.app/
 
 ## Technologies used:
 - React js
